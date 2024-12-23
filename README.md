@@ -2,13 +2,13 @@
 <a href="https://linkedin.com/in/arthdoshi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
+I am a versatile cybersecurity professional with expertise in securing applications, systems, and networks. My experience spans vulnerability management, incident response, threat analysis, and SOC operations, leveraging tools such as SIEM platforms, SAST, DAST, and penetration testing. Proficient in security monitoring, log analysis, and incident detection and triage, I excel in implementing secure SDLC, conducting risk assessments, and managing cloud and on-premises security environments. With a strong foundation in application security, red teaming, and SOC analysis, I am passionate about safeguarding critical assets, ensuring compliance with security standards, and driving proactive measures to protect against evolving cyber threats.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in industry has led me to develop a passion for cybersecurity, and I am passionate to securing application, assets, infrastructure and system.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
