@@ -58,11 +58,11 @@ As a cybersecurity researcher with extensive experience in threat analysis and n
 
 ### Cloud
 <div>
-    <img src="https://img.shields.io/badge/-AWS%20EC2-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS%20IAM-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+<!--     <img src="https://img.shields.io/badge/-AWS%20IAM-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS%20KMS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS%20VPC-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS%20S3-569A31?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20S3-569A31?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" /> -->
 
 </div>
 
@@ -79,7 +79,14 @@ As a cybersecurity researcher with extensive experience in threat analysis and n
     <img src="https://img.shields.io/badge/-LDAP-0052CC?&style=for-the-badge&logo=LDAP&logoColor=white" />
 </div>
 
+### Programming & Scripting Language
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" />
+    <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++" />
 
+
+</div>
 
 ## Projects
 - Active Directory Security and Hardening
