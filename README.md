@@ -21,7 +21,6 @@ As a cybersecurity researcher with extensive experience in threat analysis and n
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -58,7 +57,7 @@ As a cybersecurity researcher with extensive experience in threat analysis and n
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -68,5 +67,7 @@ As a cybersecurity researcher with extensive experience in threat analysis and n
 </div>
 
 ## Projects
-- Detection Lab
+- Active Directory Security and Hardening
 - SOC Automation Project
+- AWS IAM Policy Management and Least Privilege Access
+- AWS S3 Bucket Security and Data Protection
