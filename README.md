@@ -55,6 +55,7 @@ As a cybersecurity researcher with extensive experience in threat analysis and n
     <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=SonarQube&logoColor=white" alt="SonarQube" />
 
 </div>
+
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-AWS%20EC2-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
