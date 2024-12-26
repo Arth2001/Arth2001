@@ -45,14 +45,16 @@ As a cybersecurity researcher with extensive experience in threat analysis and n
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### App Sec
+### DAST & SAST
 <div>
     <img src="https://img.shields.io/badge/-Burp%20Suite-FE7A16?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=Tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nuclei-2D68C4?&style=for-the-badge&logo=SimpleIcons&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20ZAP-007396?&style=for-the-badge&logo=OWASP&logoColor=white" alt="OWASP ZAP" />
+    <img src="https://img.shields.io/badge/-Netsparker-005571?&style=for-the-badge&logo=Netsparker&logoColor=white" alt="Netsparker" />
+    <img src="https://img.shields.io/badge/-SonarQube-4E9BCD?&style=for-the-badge&logo=SonarQube&logoColor=white" alt="SonarQube" />
 
 </div>
-
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-AWS%20EC2-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
