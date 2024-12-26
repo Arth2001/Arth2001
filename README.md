@@ -46,6 +46,16 @@ As a cybersecurity researcher with extensive experience in threat analysis and n
 ### App Sec
 <div>
     <img src="https://img.shields.io/badge/-Burp%20Suite-FE7A16?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/-Nessus-00A1E0?&style=for-the-badge&logo=Tenable&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/-Nuclei-2D68C4?&style=for-the-badge&logo=SimpleIcons&logoColor=white" />
+
+</div>
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 
 </div>
 
