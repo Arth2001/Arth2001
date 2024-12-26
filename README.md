@@ -1,6 +1,6 @@
 # Hello, I'm Arth 
 <a href="https://linkedin.com/in/arthdoshi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="[(https://app.hackthebox.com/profile/1499413)]" target="_blank">
+<a href="https://app.hackthebox.com/profile/1499413" target="_blank">
     <img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?&style=for-the-badge&logo=Hack%20The%20Box&logoColor=black" alt="Hack The Box Profile" />
 </a>
 
