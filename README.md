@@ -1,5 +1,8 @@
 # Hello, I'm Arth 
 <a href="https://linkedin.com/in/arthdoshi"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[(https://app.hackthebox.com/profile/1499413)]" target="_blank">
+    <img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?&style=for-the-badge&logo=Hack%20The%20Box&logoColor=black" alt="Hack The Box Profile" />
+</a>
 
 
 I am a versatile cybersecurity professional with expertise in securing applications, systems, and networks. My experience spans vulnerability management, incident response, threat analysis, and SOC operations, leveraging tools such as SIEM platforms, SAST, DAST, and penetration testing. Proficient in security monitoring, log analysis, and incident detection and triage, I excel in implementing secure SDLC, conducting risk assessments, and managing cloud and on-premises security environments. With a strong foundation in application security, red teaming, and SOC analysis, I am passionate about safeguarding critical assets, ensuring compliance with security standards, and driving proactive measures to protect against evolving cyber threats.
@@ -69,22 +72,11 @@ As a cybersecurity researcher with extensive experience in threat analysis and n
 
 ### Tech
 <div>
-<a href="https://learn.microsoft.com/en-us/windows-server/identity/active-directory-domain-services">
     <img src="https://img.shields.io/badge/-Active%20Directory-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</a>
     <img src="https://img.shields.io/badge/-LDAP-0052CC?&style=for-the-badge&logo=LDAP&logoColor=white" />
-
 </div>
 
-## Certifications
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
 ## Projects
 - Active Directory Security and Hardening
