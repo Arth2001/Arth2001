@@ -6,12 +6,10 @@ I am a versatile cybersecurity professional with expertise in securing applicati
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in industry has led me to develop a passion for cybersecurity, and I am passionate to securing application, assets, infrastructure and system.
+As a cybersecurity researcher with extensive experience in threat analysis and network security, I am passionate about safeguarding digital ecosystems. Proficient in penetration testing, secure system architecture, application security and incident response, I aim to contribute to an organization's defense strategies. My goal is to continuously innovate and implement cutting-edge solutions that ensure the resilience and integrity of information systems.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -40,9 +38,15 @@ My journey in industry has led me to develop a passion for cybersecurity, and I 
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### App Sec
+<div>
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FE7A16?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+
 </div>
 
 ## Certifications
