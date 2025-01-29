@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?&style=for-the-badge&logo=Hack%20The%20Box&logoColor=black" alt="Hack The Box Profile" />
 </a>
 <a href="https://cyberdefenders.org/p/arthdoshi05" target="_blank">
-    <img src="https://img.shields.io/badge/cyberdefenders-9FEF00?&style=for-the-badge&logo=Hack%20The%20Box&logoColor=blue" alt="CyberDefender Profile" />
+   <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/arthdoshi05.png" width="300" />
 </a>
 
 
