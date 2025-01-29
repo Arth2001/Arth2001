@@ -3,6 +3,10 @@
 <a href="https://app.hackthebox.com/profile/1499413" target="_blank">
     <img src="https://img.shields.io/badge/-Hack%20The%20Box-9FEF00?&style=for-the-badge&logo=Hack%20The%20Box&logoColor=black" alt="Hack The Box Profile" />
 </a>
+<a href="https://cyberdefenders.org/p/arthdoshi05" target="_blank">
+    <img src="https://img.shields.io/badge/cyberdefenders-9FEF00?&style=for-the-badge&logo=Hack%20The%20Box&logoColor=blue" alt="CyberDefender Profile" />
+</a>
+
 
 
 I am a versatile cybersecurity professional with expertise in securing applications, systems, and networks. My experience spans vulnerability management, incident response, threat analysis, and SOC operations, leveraging tools such as SIEM platforms, SAST, DAST, and penetration testing. Proficient in security monitoring, log analysis, and incident detection and triage, I excel in implementing secure SDLC, conducting risk assessments, and managing cloud and on-premises security environments. With a strong foundation in application security, red teaming, and SOC analysis, I am passionate about safeguarding critical assets, ensuring compliance with security standards, and driving proactive measures to protect against evolving cyber threats.
