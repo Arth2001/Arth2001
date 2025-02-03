@@ -20,12 +20,11 @@ As a cybersecurity researcher with extensive experience in threat analysis and n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Automated Security Incident Response with Shuffle SOAR and Splunk         | Work In progress Lab</a>|
+| Active Directory Security and Hardening | Work In progress Lab</a>|
+| Automated Malware Threat Hunting with OpenCTI and SIEM         | Work In progress Lab|
+| Threat Intelligence Enrichment and Hunting with OpenCTI and SIEM Integration      | Work In progress Lab|
+
 
 ## Tools
 
